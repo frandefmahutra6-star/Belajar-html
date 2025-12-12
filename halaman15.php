@@ -5,12 +5,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title></title>
 </head>
-<style>
-    table, tr, td, th {
-        border: 1px solid black;
-        border-collapse: collapse;
-    }
-</style>
 <body>
 	<?php include 'menu.html'?>
 	<?php  

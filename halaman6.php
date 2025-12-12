@@ -13,6 +13,7 @@
     </style>
 </head>
 <body>
+    <?php include 'menu.html'?>
      
 </body>
 </html>
